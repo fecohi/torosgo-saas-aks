@@ -17,7 +17,7 @@ env:
   SUBSCRIPTIONID: "d50dcefe-449d-477e-911f-35f7cc5fa517"
   IMAGENAME: "demo-saas-aks-fecohi-3467"
   REGISTRYSKU: "Standard"
-  REGISTRYNAME: "demosaasaksacr"
+  REGISTRYNAME: "demosaasaksacrfecohi"
   REGISTRYLOCATION: "West Europe"
   CLUSTERNAME: "demo-saas-aks-fecohi"
   APPINSIGHTSLOCATION: "West Europe"
