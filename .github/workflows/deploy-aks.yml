@@ -8,25 +8,25 @@ on:
         required: true
 
 env:
-  RESOURCEGROUPNAME: "demo-saas-aks"
+  RESOURCEGROUPNAME: "demo-saas-aks-fecohi"
   LOCATION: "West Europe"
   LOCATION-RG: "westeurope"
   SUBSCRIPTIONID: "d50dcefe-449d-477e-911f-35f7cc5fa517"
-  IMAGENAME: "demo-saas-aks-3467"
+  IMAGENAME: "demo-saas-aks-fecohi-3467"
   REGISTRYSKU: "Standard"
-  REGISTRYNAME: "demosaasaksacr"
+  REGISTRYNAME: "demosaasaksacrfecohi"
   REGISTRYLOCATION: "West Europe"
-  CLUSTERNAME: "demo-saas-aks"
+  CLUSTERNAME: "demo-saas-aks-fecohi"
   APPINSIGHTSLOCATION: "West Europe"
   CLUSTERLOCATION: "West Europe"
   AGENTCOUNT: "1"
   AGENTVMSIZE: "Standard_B4ms"
   KUBERNETESVERSION: 1.25.4
   OMSLOCATION: "West Europe"
-  OMSWORKSPACENAME: "demo-saas-aks-2116"
+  OMSWORKSPACENAME: "demo-saas-aks-fecohi-2116"
   HTTPSAPPLICATIONROUTINGENABLED: false
   KUBERNETESAPI: "apps/v1"
-  NAMESPACE: "demo-saas-aks-52c7"
+  NAMESPACE: "demo-saas-aks-fecohi-52c7"
 
 jobs:
   build:
