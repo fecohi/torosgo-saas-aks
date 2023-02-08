@@ -14,7 +14,7 @@ on:
 env:
   RESOURCEGROUPNAME: "demo-saas-aks"
   LOCATION: "West Europe"
-  SUBSCRIPTIONID: "a1815f50-2e0b-4ea4-a4c3-7bdb35bdea92"
+  SUBSCRIPTIONID: "d50dcefe-449d-477e-911f-35f7cc5fa517"
   IMAGENAME: "demo-saas-aks-3467"
   REGISTRYSKU: "Standard"
   REGISTRYNAME: "demosaasaksacr"
